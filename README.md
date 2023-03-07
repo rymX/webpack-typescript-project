@@ -10,8 +10,6 @@ Hi 👋 My name is FRADI Rym
 About The Project
 -----------------------
 
-
-,I created fully functional
  webpack is an amazing tool that optimizes application resources so that they work more efficiently and effectively on any device. webpack helps to compile and bundle modules into a single file, reducing HTTP requests and improving application performance as a result.
 
 With webpack, TypeScript code is compiled into a JavaScript file that is browser-friendly. With webpack loaders, you can also convert SASS and LESS files into a single CSS bundle file.
